@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectResources">
+    <resource url="http://code.alibabatech.com/schema/dubbo/dubbo.xsd" location="E:/dubbo.xsd" />
+    <resource url="http://mybatis.org/dtd/mybatis-3-config.dtd" location="E:/mybatis-3-config.dtd" />
+    <resource url="http://www.springframework.org/schema/util/spring-util-4.0.xsd" location="E:/spring-task-4.0.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>
